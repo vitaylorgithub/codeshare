@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HistoriCrawl.Droid", "HistoriCrawl.Droid\HistoriCrawl.Droid.csproj", "{7D84F817-DDB4-487D-94EC-647FDA20B68E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HistoriCrawl.Portable", "HistoriCrawl.Portable\HistoriCrawl.Portable.csproj", "{91E5322F-3B16-41DB-9850-1040D46E57A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D84F817-DDB4-487D-94EC-647FDA20B68E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D84F817-DDB4-487D-94EC-647FDA20B68E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D84F817-DDB4-487D-94EC-647FDA20B68E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D84F817-DDB4-487D-94EC-647FDA20B68E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91E5322F-3B16-41DB-9850-1040D46E57A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E5322F-3B16-41DB-9850-1040D46E57A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E5322F-3B16-41DB-9850-1040D46E57A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E5322F-3B16-41DB-9850-1040D46E57A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

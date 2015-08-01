@@ -1,0 +1,10 @@
+E:\APPLICATIONS\Xamarin\HistoriCrawl\HistoriCrawl.Portable\bin\Debug\HistoriCrawl.Portable.dll
+E:\APPLICATIONS\Xamarin\HistoriCrawl\HistoriCrawl.Portable\bin\Debug\HistoriCrawl.Portable.pdb
+E:\APPLICATIONS\Xamarin\HistoriCrawl\HistoriCrawl.Portable\obj\Debug\HistoriCrawl.Portable.dll
+E:\APPLICATIONS\Xamarin\HistoriCrawl\HistoriCrawl.Portable\obj\Debug\HistoriCrawl.Portable.pdb
+E:\APPLICATIONS\Xamarin\HistoriCrawl\Version2\HistoriCrawl.Portable\bin\Debug\HistoriCrawl.Portable.dll
+E:\APPLICATIONS\Xamarin\HistoriCrawl\Version2\HistoriCrawl.Portable\bin\Debug\HistoriCrawl.Portable.pdb
+E:\APPLICATIONS\Xamarin\HistoriCrawl\Version2\HistoriCrawl.Portable\obj\Debug\HistoriCrawl.Portable.dll
+E:\APPLICATIONS\Xamarin\HistoriCrawl\Version2\HistoriCrawl.Portable\obj\Debug\HistoriCrawl.Portable.pdb
+E:\APPLICATIONS\Xamarin\HistoriCrawl\Version2\HistoriCrawl.Portable\obj\Debug\HistoriCrawl.Portable.csprojResolveAssemblyReference.cache
+E:\APPLICATIONS\Xamarin\HistoriCrawl\HistoriCrawl.Portable\obj\Debug\HistoriCrawl.Portable.csprojResolveAssemblyReference.cache

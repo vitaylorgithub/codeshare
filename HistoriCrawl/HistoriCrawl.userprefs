@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="HistoriCrawl.Droid\HistoriCrawl.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HistoriCrawl.Droid\MainActivity.cs">
+    <Files>
+      <File FileName="HistoriCrawl.Droid\MarkerAdapter.cs" Line="37" Column="4" />
+      <File FileName="HistoriCrawl.Droid\MainActivity.cs" Line="25" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HistoriCrawl.Droid AndroidDesignerPreferredDevice="Nexus 4" AndroidDeviceId-Debug="emulator-5554" />
+</Properties>

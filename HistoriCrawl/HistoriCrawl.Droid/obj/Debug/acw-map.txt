@@ -1,0 +1,8 @@
+HistoriCrawl.Droid.MainActivity, HistoriCrawl.Droid;md5669f26997193342e70cdf7f8ad43ce98.MainActivity
+HistoriCrawl.Droid.MainActivity, HistoriCrawl.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5669f26997193342e70cdf7f8ad43ce98.MainActivity
+HistoriCrawl.Droid.MainActivity;md5669f26997193342e70cdf7f8ad43ce98.MainActivity
+historicrawl.droid.MainActivity;md5669f26997193342e70cdf7f8ad43ce98.MainActivity
+HistoriCrawl.Droid.MarkerAdapter, HistoriCrawl.Droid;md5669f26997193342e70cdf7f8ad43ce98.MarkerAdapter
+HistoriCrawl.Droid.MarkerAdapter, HistoriCrawl.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5669f26997193342e70cdf7f8ad43ce98.MarkerAdapter
+HistoriCrawl.Droid.MarkerAdapter;md5669f26997193342e70cdf7f8ad43ce98.MarkerAdapter
+historicrawl.droid.MarkerAdapter;md5669f26997193342e70cdf7f8ad43ce98.MarkerAdapter
